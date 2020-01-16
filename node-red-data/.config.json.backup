@@ -782,9 +782,11 @@
      "view-node-show-label": true,
      "view-show-tips": true,
      "view-snap-grid": false,
-     "view-show-grid": false
+     "view-show-grid": true
     }
-   }
+   },
+   "menu-menu-item-sidebar": false,
+   "menu-menu-item-palette": true
   }
  }
 }
